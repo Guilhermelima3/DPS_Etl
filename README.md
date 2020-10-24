@@ -1,13 +1,19 @@
 
-# Projeto da Disciplina de Desenvolvimento de Projetos de Software.
+# 👨‍💻 Projeto da Disciplina de Desenvolvimento de Projetos de Software.
 
 ---
 
-## Descrição do Projeto  
+## ⚒ Descrição do Projeto  
 
 Projeto de transformação de dados do Covid-19 no domínio de Pernambuco.
 
-## Equipe/Contato
+## 🚀 Datasets Utilizados
+
+- [Governo de Pernambuco](https://dados.seplag.pe.gov.br/apps/corona.html)
+- [Kaggle](https://www.kaggle.com/unanimad/corona-virus-brazil)
+- [Brasil.io](https://brasil.io/datasets/)
+
+## 📌 Equipe/Contato
 
 | [<img src="https://avatars1.githubusercontent.com/u/62215470?s=460&u=c6dc439e77463ced6dd781733712708b5fbdde65&v=4" width=115><br><sub>@Guilhermelima3</sub>](https://github.com/Guilhermelima3) |
 | :---: |
